@@ -1,4 +1,4 @@
-# 朔雀 – Playmour（feat. 導凰、biz、ZERA）
+# 朔雀 – Playmour（feat. 導凰、カヤちゃん、biz、ZERA）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
