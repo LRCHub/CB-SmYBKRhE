@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "Playmour（feat. 導凰、カヤちゃん、biz、ZERA）",
+  "base_track": "Playmour（feat. 導凰、biz、ZERA）",
   "base_artist": "朔雀",
-  "createdAt": "2026-03-10T02:31:13.758051Z",
+  "createdAt": "2026-03-12T02:18:40.748773Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Playmour (feat. 導凰, カヤちゃん, biz, ZERA)",
+      "title": "Playmour (feat. 導凰, biz, ZERA)",
       "artist": "朔雀",
       "has_synced": false,
-      "path": "select/pl_01_Playmour_(feat._導凰,_カヤちゃん,_biz,_ZERA)_朔雀.txt"
+      "path": "select/pl_01_Playmour_(feat._導凰,_biz,_ZERA)_朔雀.txt"
     }
   ]
 }
